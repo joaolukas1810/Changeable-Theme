@@ -5,13 +5,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="João Lukas">
-    <link rel="stylesheet" href="./css/light.css" id="theme" class="light">
+    <link rel="stylesheet" href="./css/style.css" id="theme">
     <script src="./js/app.js"></script>
     <title>Theme Change Test</title>
 </head>
 
-<body>
+<body class="light-mode">
     <h1>Changeable Theme</h1>
+    <hr>
     <h2>Dark Theme</h2>
     <button onclick="document.getElementById('theme').href ='./css/dark.css';">Dark Theme</button>
     <h2>Light Theme</h2>
@@ -19,7 +20,11 @@
     <br>
     <br>
     <button onclick="themeChange()">teste</button>
-    <button onclick="themeChange3()">ads</button>
+    <button onclick="themeChange6()" id="themes">teste2</button>
+    <br><br><br><br><br>
+    <button onclick="teste2()">teste inner html</button>
+    <br><br><br><br><br>
+    <button id="themeButton">Theme Button</button>
 </body>
 
 </html>
