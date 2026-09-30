@@ -1,0 +1,15 @@
+C:\Users\DTG-2026\Desktop\Changeable-Theme\testeSenhaForte\bin\Debug\net10.0\testeSenhaForte.exe
+C:\Users\DTG-2026\Desktop\Changeable-Theme\testeSenhaForte\bin\Debug\net10.0\testeSenhaForte.deps.json
+C:\Users\DTG-2026\Desktop\Changeable-Theme\testeSenhaForte\bin\Debug\net10.0\testeSenhaForte.runtimeconfig.json
+C:\Users\DTG-2026\Desktop\Changeable-Theme\testeSenhaForte\bin\Debug\net10.0\testeSenhaForte.dll
+C:\Users\DTG-2026\Desktop\Changeable-Theme\testeSenhaForte\bin\Debug\net10.0\testeSenhaForte.pdb
+C:\Users\DTG-2026\Desktop\Changeable-Theme\testeSenhaForte\obj\Debug\net10.0\testeSenhaForte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DTG-2026\Desktop\Changeable-Theme\testeSenhaForte\obj\Debug\net10.0\testeSenhaForte.AssemblyInfoInputs.cache
+C:\Users\DTG-2026\Desktop\Changeable-Theme\testeSenhaForte\obj\Debug\net10.0\testeSenhaForte.AssemblyInfo.cs
+C:\Users\DTG-2026\Desktop\Changeable-Theme\testeSenhaForte\obj\Debug\net10.0\testeSenhaForte.csproj.CoreCompileInputs.cache
+C:\Users\DTG-2026\Desktop\Changeable-Theme\testeSenhaForte\obj\Debug\net10.0\testeSenhaForte.sourcelink.json
+C:\Users\DTG-2026\Desktop\Changeable-Theme\testeSenhaForte\obj\Debug\net10.0\testeSenhaForte.dll
+C:\Users\DTG-2026\Desktop\Changeable-Theme\testeSenhaForte\obj\Debug\net10.0\refint\testeSenhaForte.dll
+C:\Users\DTG-2026\Desktop\Changeable-Theme\testeSenhaForte\obj\Debug\net10.0\testeSenhaForte.pdb
+C:\Users\DTG-2026\Desktop\Changeable-Theme\testeSenhaForte\obj\Debug\net10.0\testeSenhaForte.genruntimeconfig.cache
+C:\Users\DTG-2026\Desktop\Changeable-Theme\testeSenhaForte\obj\Debug\net10.0\ref\testeSenhaForte.dll
